@@ -1,4 +1,4 @@
-package com.skilldistillery.newoverwatch.controller;
+package com.skilldistillery.overwatchheroes.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

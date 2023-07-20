@@ -7,7 +7,7 @@
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
 		<!-- begin entities -->
-		<class>com.skilldistillery.newoverwatch.entities.OverwatchHero</class>
+		<class>com.skilldistillery.overwatchheroes.entities.OverwatchHero</class>
 		<!-- end entities -->
 
 		<properties>

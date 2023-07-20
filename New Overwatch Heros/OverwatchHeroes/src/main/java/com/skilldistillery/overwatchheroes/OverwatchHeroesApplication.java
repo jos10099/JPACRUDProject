@@ -1,4 +1,4 @@
-package com.skilldistillery.newoverwatch;
+package com.skilldistillery.overwatchheroes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

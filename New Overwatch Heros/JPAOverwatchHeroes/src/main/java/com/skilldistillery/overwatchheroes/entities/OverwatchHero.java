@@ -1,4 +1,4 @@
-package com.skilldistillery.newoverwatch.entities;
+package com.skilldistillery.overwatchheroes.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
