@@ -24,6 +24,12 @@ public class OverwatchHero {
 	private String weapon;
 	@Column(name = "ultimate_ability")
 	private String ultimateability;
+	
+	
+	
+	public OverwatchHero() {
+		
+	}
 
 	public int getId() {
 		return id;
